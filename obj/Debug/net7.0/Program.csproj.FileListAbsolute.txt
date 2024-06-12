@@ -1,0 +1,50 @@
+C:\Users\enzob\OneDrive\UCU\Sistemas operativos\obligatorios\obligatorio\obligatorio_2\src\Program\obj\Debug\net7.0\Program.csproj.AssemblyReference.cache
+C:\Users\enzob\OneDrive\UCU\Sistemas operativos\obligatorios\obligatorio\obligatorio_2\src\Program\obj\Debug\net7.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enzob\OneDrive\UCU\Sistemas operativos\obligatorios\obligatorio\obligatorio_2\src\Program\obj\Debug\net7.0\Program.AssemblyInfoInputs.cache
+C:\Users\enzob\OneDrive\UCU\Sistemas operativos\obligatorios\obligatorio\obligatorio_2\src\Program\obj\Debug\net7.0\Program.AssemblyInfo.cs
+C:\Users\enzob\OneDrive\UCU\Sistemas operativos\obligatorios\obligatorio\obligatorio_2\src\Program\obj\Debug\net7.0\Program.csproj.CoreCompileInputs.cache
+C:\Users\enzob\OneDrive\UCU\Sistemas operativos\obligatorios\obligatorio\obligatorio_2\src\Program\bin\Debug\net7.0\Program.exe
+C:\Users\enzob\OneDrive\UCU\Sistemas operativos\obligatorios\obligatorio\obligatorio_2\src\Program\bin\Debug\net7.0\Program.deps.json
+C:\Users\enzob\OneDrive\UCU\Sistemas operativos\obligatorios\obligatorio\obligatorio_2\src\Program\bin\Debug\net7.0\Program.runtimeconfig.json
+C:\Users\enzob\OneDrive\UCU\Sistemas operativos\obligatorios\obligatorio\obligatorio_2\src\Program\bin\Debug\net7.0\Program.dll
+C:\Users\enzob\OneDrive\UCU\Sistemas operativos\obligatorios\obligatorio\obligatorio_2\src\Program\bin\Debug\net7.0\Program.pdb
+C:\Users\enzob\OneDrive\UCU\Sistemas operativos\obligatorios\obligatorio\obligatorio_2\src\Program\bin\Debug\net7.0\Library.dll
+C:\Users\enzob\OneDrive\UCU\Sistemas operativos\obligatorios\obligatorio\obligatorio_2\src\Program\bin\Debug\net7.0\Library.pdb
+C:\Users\enzob\OneDrive\UCU\Sistemas operativos\obligatorios\obligatorio\obligatorio_2\src\Program\obj\Debug\net7.0\Program.csproj.CopyComplete
+C:\Users\enzob\OneDrive\UCU\Sistemas operativos\obligatorios\obligatorio\obligatorio_2\src\Program\obj\Debug\net7.0\Program.dll
+C:\Users\enzob\OneDrive\UCU\Sistemas operativos\obligatorios\obligatorio\obligatorio_2\src\Program\obj\Debug\net7.0\refint\Program.dll
+C:\Users\enzob\OneDrive\UCU\Sistemas operativos\obligatorios\obligatorio\obligatorio_2\src\Program\obj\Debug\net7.0\Program.pdb
+C:\Users\enzob\OneDrive\UCU\Sistemas operativos\obligatorios\obligatorio\obligatorio_2\src\Program\obj\Debug\net7.0\Program.genruntimeconfig.cache
+C:\Users\enzob\OneDrive\UCU\Sistemas operativos\obligatorios\obligatorio\obligatorio_2\src\Program\obj\Debug\net7.0\ref\Program.dll
+C:\Users\enzob\OneDrive\UCU\Sistemas operativos\obligatorios\obligatorio_SO\src\Program\bin\Debug\net7.0\Program.exe
+C:\Users\enzob\OneDrive\UCU\Sistemas operativos\obligatorios\obligatorio_SO\src\Program\bin\Debug\net7.0\Program.deps.json
+C:\Users\enzob\OneDrive\UCU\Sistemas operativos\obligatorios\obligatorio_SO\src\Program\bin\Debug\net7.0\Program.runtimeconfig.json
+C:\Users\enzob\OneDrive\UCU\Sistemas operativos\obligatorios\obligatorio_SO\src\Program\bin\Debug\net7.0\Program.dll
+C:\Users\enzob\OneDrive\UCU\Sistemas operativos\obligatorios\obligatorio_SO\src\Program\bin\Debug\net7.0\Program.pdb
+C:\Users\enzob\OneDrive\UCU\Sistemas operativos\obligatorios\obligatorio_SO\src\Program\bin\Debug\net7.0\Library.dll
+C:\Users\enzob\OneDrive\UCU\Sistemas operativos\obligatorios\obligatorio_SO\src\Program\bin\Debug\net7.0\Library.pdb
+C:\Users\enzob\OneDrive\UCU\Sistemas operativos\obligatorios\obligatorio_SO\src\Program\obj\Debug\net7.0\Program.csproj.AssemblyReference.cache
+C:\Users\enzob\OneDrive\UCU\Sistemas operativos\obligatorios\obligatorio_SO\src\Program\obj\Debug\net7.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enzob\OneDrive\UCU\Sistemas operativos\obligatorios\obligatorio_SO\src\Program\obj\Debug\net7.0\Program.AssemblyInfoInputs.cache
+C:\Users\enzob\OneDrive\UCU\Sistemas operativos\obligatorios\obligatorio_SO\src\Program\obj\Debug\net7.0\Program.AssemblyInfo.cs
+C:\Users\enzob\OneDrive\UCU\Sistemas operativos\obligatorios\obligatorio_SO\src\Program\obj\Debug\net7.0\Program.csproj.CoreCompileInputs.cache
+C:\Users\enzob\OneDrive\UCU\Sistemas operativos\obligatorios\obligatorio_SO\src\Program\obj\Debug\net7.0\Program.csproj.CopyComplete
+C:\Users\enzob\OneDrive\UCU\Sistemas operativos\obligatorios\obligatorio_SO\src\Program\obj\Debug\net7.0\Program.dll
+C:\Users\enzob\OneDrive\UCU\Sistemas operativos\obligatorios\obligatorio_SO\src\Program\obj\Debug\net7.0\refint\Program.dll
+C:\Users\enzob\OneDrive\UCU\Sistemas operativos\obligatorios\obligatorio_SO\src\Program\obj\Debug\net7.0\Program.pdb
+C:\Users\enzob\OneDrive\UCU\Sistemas operativos\obligatorios\obligatorio_SO\src\Program\obj\Debug\net7.0\Program.genruntimeconfig.cache
+C:\Users\enzob\OneDrive\UCU\Sistemas operativos\obligatorios\obligatorio_SO\src\Program\obj\Debug\net7.0\ref\Program.dll
+C:\Users\guill\OneDrive\Escritorio\hilos\obligatorio_SO\bin\Debug\net7.0\Program.exe
+C:\Users\guill\OneDrive\Escritorio\hilos\obligatorio_SO\bin\Debug\net7.0\Program.deps.json
+C:\Users\guill\OneDrive\Escritorio\hilos\obligatorio_SO\bin\Debug\net7.0\Program.runtimeconfig.json
+C:\Users\guill\OneDrive\Escritorio\hilos\obligatorio_SO\bin\Debug\net7.0\Program.dll
+C:\Users\guill\OneDrive\Escritorio\hilos\obligatorio_SO\bin\Debug\net7.0\Program.pdb
+C:\Users\guill\OneDrive\Escritorio\hilos\obligatorio_SO\obj\Debug\net7.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guill\OneDrive\Escritorio\hilos\obligatorio_SO\obj\Debug\net7.0\Program.AssemblyInfoInputs.cache
+C:\Users\guill\OneDrive\Escritorio\hilos\obligatorio_SO\obj\Debug\net7.0\Program.AssemblyInfo.cs
+C:\Users\guill\OneDrive\Escritorio\hilos\obligatorio_SO\obj\Debug\net7.0\Program.csproj.CoreCompileInputs.cache
+C:\Users\guill\OneDrive\Escritorio\hilos\obligatorio_SO\obj\Debug\net7.0\Program.dll
+C:\Users\guill\OneDrive\Escritorio\hilos\obligatorio_SO\obj\Debug\net7.0\refint\Program.dll
+C:\Users\guill\OneDrive\Escritorio\hilos\obligatorio_SO\obj\Debug\net7.0\Program.pdb
+C:\Users\guill\OneDrive\Escritorio\hilos\obligatorio_SO\obj\Debug\net7.0\Program.genruntimeconfig.cache
+C:\Users\guill\OneDrive\Escritorio\hilos\obligatorio_SO\obj\Debug\net7.0\ref\Program.dll
